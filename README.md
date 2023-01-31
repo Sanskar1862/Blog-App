@@ -1,2 +1,2 @@
 # Blog-App
-Created Blog App using HTML, CSS and Django
+This Web App show you the blogs addd by th admin in the server.
