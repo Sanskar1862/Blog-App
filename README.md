@@ -1,2 +1,2 @@
 # Blog-App
-This Web App show you the blogs added by th admin in the server.
+This Web App show you the blogs added by the admin in the server.
